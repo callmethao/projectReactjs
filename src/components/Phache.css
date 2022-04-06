@@ -1,0 +1,26 @@
+.Phache{
+    background-image: url(https://images.unsplash.com/photo-1588285210413-177ecbb287e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+}
+.Phache > h1{
+    color: #fff;
+}
+.story {
+	padding: 4rem;
+	background-color: #fff;
+  }
+  
+  h2 {
+	font-family: 'Allison';
+	text-align: center;
+  }
